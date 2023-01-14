@@ -1,5 +1,5 @@
-### Hi there
-<h2> Hey there!👋 My name is Malibongwe Vincent Skosana.</h2>
+### Hi there 👋
+<h2> My name is Malibongwe Vincent Skosana.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
