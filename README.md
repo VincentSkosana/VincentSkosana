@@ -4,7 +4,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies.
-- 🎓 &nbsp; Studed Computer Mathematics at University of Pretoria.
+- 🎓 &nbsp; Studed Mathematics & Mathematical Statistics at University of Pretoria.
 - 💼 &nbsp; Working as a Junior Financial Engineer at [Riskworx](https://www.riskworx.com/).
 - 🌱 &nbsp; Learning more about Financial Risk Management, Machine Learning, Artificial Intelligence and Cloud Based Computing.
 
